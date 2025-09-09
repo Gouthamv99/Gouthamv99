@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...springboot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...gauthamkirav1998@gmail.com
+- 📫 How to reach me ...goutham.vennelaganti@gmail.com
 
 <!---
 Gouthamv99/Gouthamv99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
